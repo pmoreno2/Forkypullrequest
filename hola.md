@@ -7,3 +7,4 @@ Por favor, añade tu nombre:
 - Sabas
 - PedroComas
 - Kevin García
+- Alex
