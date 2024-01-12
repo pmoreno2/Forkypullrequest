@@ -1,3 +1,10 @@
 Por favor, añade tu nombre:
 - Pedro
--Alex
+
+- Jessica
+- Antonio Martinez
+- Apolo
+- Sabas
+- PedroComas
+- Kevin García
+- Alex
