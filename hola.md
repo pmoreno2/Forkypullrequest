@@ -4,3 +4,4 @@ Por favor, añade tu nombre:
 - Antonio Martinez
 - Apolo
 - Sabas
+- Mario
